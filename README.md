@@ -17,3 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :octocat: Gh-pages:
+
+[Проведение митапов (2024)](https://novakf.github.io/meetups-app-frontend/)
+
+[Аренда автомобилей (2022)](https://novakf.github.io/cars-app/)
