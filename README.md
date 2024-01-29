@@ -18,8 +18,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :octocat: Gh-pages:
+### :octocat: GitHub-pages:
 
-[Проведение митапов (2024)](https://novakf.github.io/meetups-app-frontend/)
+- #### [Проведение митапов (2024)](https://novakf.github.io/meetups-app-frontend/)
 
-[Аренда автомобилей (2022)](https://novakf.github.io/cars-app/)
+- #### [GitHub Клиент (2023)](https://novakf.github.io/github-client-app/#babel)
+
+- #### [Ведение рационов питания (2023)](https://novakf.github.io/diets-app/)
+
+- #### [Аренда автомобилей (2022)](https://novakf.github.io/cars-app/)
