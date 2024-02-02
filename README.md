@@ -20,6 +20,7 @@
 
 ### :octocat: GitHub-pages:
 
+
 - #### [Проведение митапов (2024)](https://novakf.github.io/meetups-app-frontend/)
 
 - #### [GitHub Клиент (2023)](https://novakf.github.io/github-client-app/#babel)
@@ -27,3 +28,5 @@
 - #### [Ведение рационов питания (2023)](https://novakf.github.io/diets-app/)
 
 - #### [Аренда автомобилей (2022)](https://novakf.github.io/cars-app/)
+
+- #### [Игра Трон (световые мотоциклы) (2024)](https://novakf.github.io/tron-arcade-game/)
